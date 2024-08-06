@@ -19,11 +19,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 	@Test
 	public void verifyAccountRegistration() {
 
-<<<<<<< HEAD
-		logger.info("************************ Staring TC001_AccountRegistrationTest ************************12");
-=======
-		logger.info("************************ Staring TC001_AccountRegistrationTest ************************#");
->>>>>>> d430247d7522569d2f9b1e5d8802c419ad88382b
+		logger.info("************************ Staring TC001_AccountRegistrationTest ************************");
 
 		try {
 			HomePage hp = new HomePage(driver);
