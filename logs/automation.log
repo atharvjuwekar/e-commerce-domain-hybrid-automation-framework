@@ -258,3 +258,10 @@
 2024-08-06 19:51:06 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
 2024-08-06 19:51:10 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
 2024-08-06 19:51:10 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
+2024-08-06 20:05:55 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-06 20:05:56 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-06 20:06:09 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
+2024-08-06 20:06:19 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
+2024-08-06 20:06:19 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
