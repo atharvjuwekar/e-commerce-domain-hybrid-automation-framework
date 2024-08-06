@@ -1,0 +1,43 @@
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-06 19:24:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse--1079587764\testng-customsuite.xml
+
+2024-08-06 19:24:48 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2024-08-06 19:25:07 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
+2024-08-06 19:25:21 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
+2024-08-06 19:25:21 INFO  TC001_AccountRegistrationTest:54 - ************************ finished TC001_AccountRegistrationTest **********************
+2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@71b6d77f: 187 ms
+2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1866da85: 1 ms
+2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@45c2e0a6: 31 ms
+2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26221bad: 10 ms
+2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@8deb645: 5 ms
+2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7dd611c8: 0 ms

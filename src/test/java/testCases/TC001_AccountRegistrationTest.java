@@ -16,20 +16,12 @@ import testBase.BaseClass;
 
 public class TC001_AccountRegistrationTest extends BaseClass {
 	
-	@BeforeClass
-	public void setup() {
-		
-		driver = new ChromeDriver();
-		driver.manage().deleteAllCookies();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-		driver.get("https://tutorialsninja.com/demo/index.php");
-		driver.manage().window().maximize();
-		
-	}
-	
 	@Test
 	public void verifyAccountRegistration() {
 		
+		logger.info("************************ Staring TC001_AccountRegistrationTest **********************");
+		
+		try {
 		HomePage hp = new HomePage(driver);
 		hp.clickMyAccount();
 		hp.clickRegister();
@@ -48,9 +40,19 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 		arp.setPrivacyPolicy();
 		arp.clickContinue();
 		
+		logger.info("Validating expected confirm message");
 		String confirmMsg = arp.getConfirmationMsg();
 		
 		Assert.assertEquals(confirmMsg, "Your Account Has Been Created!");
+		}
+		catch(Exception e) {
+			logger.error("Test Failed..");
+			logger.debug("Debug logs..");
+			Assert.fail();
+		}
+		
+		logger.info("************************ finished TC001_AccountRegistrationTest **********************");
+		
 		
 	}
 	
