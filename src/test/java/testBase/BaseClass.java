@@ -22,7 +22,7 @@ public class BaseClass {
 	public Logger logger;
 	public Properties p;
 
-	@BeforeClass
+	@BeforeClass(groups = {"Sanity","Regression","Master"})
 	@Parameters({ "os", "browser" })
 	public void setup(String osName, String browserName) throws IOException {
 
@@ -56,7 +56,7 @@ public class BaseClass {
 
 	}
 
-	@AfterClass
+	@AfterClass(groups = {"Sanity","Regression","Master"})
 	public void tearDown() {
 
 		driver.quit();
