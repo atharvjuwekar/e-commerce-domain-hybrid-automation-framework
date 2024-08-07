@@ -150,6 +150,18 @@ public class ExcelUtility {
 		fo.close();
 	}
 	
+	public void writeTestData(String sheetName, String username, String pwd) throws IOException {
+	
+		fi=new FileInputStream(path);
+		workbook=new XSSFWorkbook(fi);
+		sheet=workbook.getSheet(sheetName);
+		
+		int rowNum = getRowCount(sheetName)+1;
+		setCellData(sheetName,rowNum,0,username);
+		setCellData(sheetName,rowNum,1,pwd);
+		setCellData(sheetName,rowNum,2,"Valid");
+	}
+	
 }
 
 

@@ -259,3 +259,189 @@
 2024-08-07 18:28:06 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
 2024-08-07 18:28:16 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
 2024-08-07 18:28:18 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
+2024-08-07 18:31:25 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\grouping.xml"
+2024-08-07 18:31:26 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\grouping.xml
+
+2024-08-07 18:31:33 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 18:31:36 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
+2024-08-07 18:33:54 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\grouping.xml"
+2024-08-07 18:33:54 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\grouping.xml
+
+2024-08-07 18:34:03 INFO  TC001_AccountRegistrationTest:24 - ************************ Staring TC001_AccountRegistrationTest ************************#
+2024-08-07 18:34:07 INFO  TC001_AccountRegistrationTest:46 - Validating expected confirm message
+2024-08-07 18:34:08 INFO  TC001_AccountRegistrationTest:65 - ************************ finished TC001_AccountRegistrationTest **********************
+2024-08-07 18:34:17 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 18:34:19 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
+2024-08-07 18:56:47 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\grouping.xml"
+2024-08-07 18:56:48 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\grouping.xml
+
+2024-08-07 18:56:57 INFO  TC001_AccountRegistrationTest:25 - ************************ Staring TC001_AccountRegistrationTest ************************#
+2024-08-07 18:57:00 INFO  TC001_AccountRegistrationTest:45 - Validating expected confirm message
+2024-08-07 18:57:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 18:57:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 18:57:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 18:57:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 18:57:02 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 18:57:02 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 18:57:02 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 18:57:02 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 18:57:02 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 18:57:02 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 18:57:02 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 18:57:02 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 18:57:02 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 18:57:02 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 18:57:02 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 18:57:02 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 18:57:02 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 18:57:02 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 18:57:02 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 18:57:02 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 18:57:02 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 18:57:02 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 18:57:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 18:57:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 18:57:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 18:57:03 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 18:57:03 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 18:57:03 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 18:57:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 18:57:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 18:57:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 18:57:03 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 18:57:03 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 18:57:03 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 18:57:03 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 18:57:05 INFO  TC001_AccountRegistrationTest:69 - ************************ finished TC001_AccountRegistrationTest **********************
+2024-08-07 19:00:03 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\grouping.xml"
+2024-08-07 19:00:04 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\grouping.xml
+
+2024-08-07 19:00:14 INFO  TC001_AccountRegistrationTest:25 - ************************ Staring TC001_AccountRegistrationTest ************************#
+2024-08-07 19:00:17 INFO  TC001_AccountRegistrationTest:45 - Validating expected confirm message
+2024-08-07 19:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:00:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:00:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:00:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:00:19 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 19:00:19 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:00:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:00:19 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 19:00:19 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:00:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:00:19 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 19:00:19 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 19:00:19 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 19:00:20 INFO  TC001_AccountRegistrationTest:69 - ************************ finished TC001_AccountRegistrationTest **********************
+2024-08-07 19:02:31 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\grouping.xml"
+2024-08-07 19:02:31 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\grouping.xml
+
+2024-08-07 19:02:40 INFO  TC001_AccountRegistrationTest:25 - ************************ Staring TC001_AccountRegistrationTest ************************#
+2024-08-07 19:02:43 INFO  TC001_AccountRegistrationTest:45 - Validating expected confirm message
+2024-08-07 19:02:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:02:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:02:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:02:44 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:02:45 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:02:45 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:02:45 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 19:02:45 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:02:45 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:02:45 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 19:02:45 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:02:45 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:02:45 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 19:02:45 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 19:02:45 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 19:02:46 INFO  TC001_AccountRegistrationTest:69 - ************************ finished TC001_AccountRegistrationTest **********************
