@@ -530,3 +530,39 @@
 2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
 2024-08-07 19:52:17 INFO  TC001_AccountRegistrationTest:69 - ************************ finished TC001_AccountRegistrationTest **********************
 2024-08-07 19:52:26 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 20:38:25 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:38:25 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:38:47 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 20:39:47 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:39:47 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:41:02 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:41:03 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:46:33 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:46:33 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:47:55 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:47:55 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:50:11 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:50:12 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:50:29 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 20:54:29 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:54:30 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:54:41 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 20:57:57 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:57:58 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:58:07 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
