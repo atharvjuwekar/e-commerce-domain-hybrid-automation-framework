@@ -20,7 +20,7 @@ Data is invalid -- login failed - test pass
 public class TC003_LoginDataDrivenTest extends BaseClass
 {
 
-	@Test(dataProvider="LoginData",dataProviderClass=DataProviders.class)
+	@Test(groups={"DataDriven"},dataProvider="LoginData",dataProviderClass=DataProviders.class)
 	public void verify_loginDDT(String email, String password, String exp)
 	{
 		logger.info("**** Starting TC_003_LoginDDT *****");
