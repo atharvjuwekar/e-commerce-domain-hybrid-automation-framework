@@ -1,356 +1,139 @@
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:24:48 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hp\AppData\Local\Temp\testng-eclipse--1079587764\testng-customsuite.xml
+2024-08-07 11:09:37 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\AppData\Local\Temp\testng-eclipse--2092333873\testng-customsuite.xml"
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 34 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 11:09:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse--2092333873\testng-customsuite.xml
 
-2024-08-06 19:24:48 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
-2024-08-06 19:25:07 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:25:21 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:25:21 INFO  TC001_AccountRegistrationTest:54 - ************************ finished TC001_AccountRegistrationTest **********************
-2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@71b6d77f: 187 ms
-2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1866da85: 1 ms
-2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@45c2e0a6: 31 ms
-2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26221bad: 10 ms
-2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@8deb645: 5 ms
-2024-08-06 19:25:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7dd611c8: 0 ms
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2024-08-06 19:28:45 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hp\AppData\Local\Temp\testng-eclipse-2066071626\testng-customsuite.xml
-
-2024-08-06 19:28:45 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
-2024-08-06 19:28:57 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:29:00 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:29:00 INFO  TC001_AccountRegistrationTest:54 - ************************ finished TC001_AccountRegistrationTest **********************
-2024-08-06 19:29:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@71b6d77f: 101 ms
-2024-08-06 19:29:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1866da85: 2 ms
-2024-08-06 19:29:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@45c2e0a6: 14 ms
-2024-08-06 19:29:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26221bad: 10 ms
-2024-08-06 19:29:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@8deb645: 7 ms
-2024-08-06 19:29:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7dd611c8: 0 ms
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:29:48 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hp\AppData\Local\Temp\testng-eclipse--1832326823\testng-customsuite.xml
-
-2024-08-06 19:29:48 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
-2024-08-06 19:29:56 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:29:59 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1b5c3e5f: 136 ms
-2024-08-06 19:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@a0db585: 24 ms
-2024-08-06 19:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@73010765: 31 ms
-2024-08-06 19:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f7da3d3: 11 ms
-2024-08-06 19:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@77ec6a3d: 10 ms
-2024-08-06 19:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@67efd2c2: 0 ms
-2024-08-06 19:30:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\AppData\Local\Temp\testng-eclipse--2143280556\testng-customsuite.xml"
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:30:56 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hp\AppData\Local\Temp\testng-eclipse--2143280556\testng-customsuite.xml
-
-2024-08-06 19:30:56 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
-2024-08-06 19:31:05 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:31:08 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:31:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@fb713e7: 132 ms
-2024-08-06 19:31:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@7636823f: 29 ms
-2024-08-06 19:31:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@1c9e07c6: 20 ms
-2024-08-06 19:31:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26b95b0b: 12 ms
-2024-08-06 19:31:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5f172d4a: 14 ms
-2024-08-06 19:31:09 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@77ec6a3d: 0 ms
-2024-08-06 19:34:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\AppData\Local\Temp\testng-eclipse--47380689\testng-customsuite.xml"
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 19:34:32 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hp\AppData\Local\Temp\testng-eclipse--47380689\testng-customsuite.xml
-
-2024-08-06 19:34:32 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
-2024-08-06 19:34:43 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:34:45 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:34:45 ERROR TC001_AccountRegistrationTest:50 - Test Failed..
-2024-08-06 19:34:45 DEBUG TC001_AccountRegistrationTest:51 - Desbug logs..
-2024-08-06 19:34:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1b5c3e5f: 160 ms
-2024-08-06 19:34:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@a0db585: 22 ms
-2024-08-06 19:34:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@73010765: 14 ms
-2024-08-06 19:34:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f7da3d3: 12 ms
-2024-08-06 19:34:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@77ec6a3d: 10 ms
-2024-08-06 19:34:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@67efd2c2: 0 ms
-2024-08-06 19:45:41 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
-2024-08-06 19:45:41 INFO  Utils:112 - [TestNG] Running:
+2024-08-07 11:09:38 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2024-08-07 11:09:39 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4a951911: 308 ms
+2024-08-07 11:09:39 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@325f7fa9: 86 ms
+2024-08-07 11:09:39 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@15f193b8: 98 ms
+2024-08-07 11:09:39 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4a325eb9: 49 ms
+2024-08-07 11:09:39 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1d81e101: 17 ms
+2024-08-07 11:09:39 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@ec50f54: 0 ms
+2024-08-07 11:13:30 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 11:13:30 INFO  Utils:112 - [TestNG] Running:
   E:\java-eclipse-workspace\OpenCart\master.xml
 
-2024-08-06 19:46:35 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
-2024-08-06 19:46:36 INFO  Utils:112 - [TestNG] Running:
+2024-08-07 11:13:53 INFO  TC001_AccountRegistrationTest:23 - ************************ Staring TC001_AccountRegistrationTest ************************#
+2024-08-07 11:13:58 INFO  TC001_AccountRegistrationTest:45 - Validating expected confirm message
+2024-08-07 11:13:58 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
+2024-08-07 11:29:55 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 11:29:55 INFO  Utils:112 - [TestNG] Running:
   E:\java-eclipse-workspace\OpenCart\master.xml
 
-2024-08-06 19:46:50 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:46:54 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:46:54 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
-2024-08-06 19:48:08 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
-2024-08-06 19:48:08 INFO  Utils:112 - [TestNG] Running:
+2024-08-07 11:30:05 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 11:31:34 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 11:31:34 INFO  Utils:112 - [TestNG] Running:
   E:\java-eclipse-workspace\OpenCart\master.xml
 
-2024-08-06 19:48:17 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:48:21 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:48:21 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
-2024-08-06 19:49:34 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\parallelTest.xml"
-2024-08-06 19:49:35 INFO  Utils:112 - [TestNG] Running:
-  E:\java-eclipse-workspace\OpenCart\parallelTest.xml
-
-2024-08-06 19:49:44 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:49:47 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:49:47 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
-2024-08-06 19:49:58 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:50:02 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:50:02 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
-2024-08-06 19:50:11 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:50:15 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:50:15 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
-2024-08-06 19:50:38 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\parallelTest.xml"
-2024-08-06 19:50:39 INFO  Utils:112 - [TestNG] Running:
-  E:\java-eclipse-workspace\OpenCart\parallelTest.xml
-
-2024-08-06 19:50:59 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:51:00 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:51:00 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 19:51:05 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:51:05 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
-2024-08-06 19:51:05 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:51:06 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
-2024-08-06 19:51:10 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 19:51:10 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
-2024-08-06 20:05:55 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
-2024-08-06 20:05:56 INFO  Utils:112 - [TestNG] Running:
+2024-08-07 11:31:43 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 11:31:46 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
+2024-08-07 16:34:30 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 16:34:31 INFO  Utils:112 - [TestNG] Running:
   E:\java-eclipse-workspace\OpenCart\master.xml
 
-2024-08-06 20:06:09 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest **********************
-2024-08-06 20:06:19 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 20:06:19 INFO  TC001_AccountRegistrationTest:61 - ************************ finished TC001_AccountRegistrationTest **********************
-2024-08-06 21:07:20 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\AppData\Local\Temp\testng-eclipse-982572382\testng-customsuite.xml"
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hp\AppData\Local\Temp\testng-eclipse-982572382\testng-customsuite.xml
-
-2024-08-06 21:07:21 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
-2024-08-06 21:07:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1f9d6c7b: 250 ms
-2024-08-06 21:07:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@5e63cad: 44 ms
-2024-08-06 21:07:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@11ce2e22: 62 ms
-2024-08-06 21:07:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5b69d40d: 15 ms
-2024-08-06 21:07:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@72889280: 7 ms
-2024-08-06 21:07:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@606fc505: 0 ms
-2024-08-06 21:07:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\AppData\Local\Temp\testng-eclipse-268093675\testng-customsuite.xml"
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hp\AppData\Local\Temp\testng-eclipse-268093675\testng-customsuite.xml
-
-2024-08-06 21:07:33 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
-2024-08-06 21:07:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1f9d6c7b: 273 ms
-2024-08-06 21:07:34 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@5e63cad: 36 ms
-2024-08-06 21:07:34 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@11ce2e22: 31 ms
-2024-08-06 21:07:34 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5b69d40d: 22 ms
-2024-08-06 21:07:34 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@72889280: 9 ms
-2024-08-06 21:07:34 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@606fc505: 0 ms
-2024-08-06 21:08:08 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
-2024-08-06 21:08:08 INFO  Utils:112 - [TestNG] Running:
-  E:\java-eclipse-workspace\OpenCart\master.xml
-
-2024-08-06 21:08:24 INFO  TC001_AccountRegistrationTest:22 - ************************ Staring TC001_AccountRegistrationTest ************************
-2024-08-06 21:08:28 INFO  TC001_AccountRegistrationTest:43 - Validating expected confirm message
-2024-08-06 21:08:29 INFO  TC001_AccountRegistrationTest:59 - ************************ finished TC001_AccountRegistrationTest **********************
+2024-08-07 16:34:52 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:52 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:52 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:59 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:59 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:59 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:59 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:59 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:59 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:59 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:59 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 16:34:59 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 16:34:59 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 16:34:59 INFO  TC003_LoginDataDrivenTest:26 - **** Starting TC_003_LoginDDT *****
+2024-08-07 16:35:09 INFO  TC003_LoginDataDrivenTest:76 - **** Finished TC_003_LoginDDT *****
+2024-08-07 16:35:09 INFO  TC003_LoginDataDrivenTest:26 - **** Starting TC_003_LoginDDT *****
+2024-08-07 16:35:11 INFO  TC003_LoginDataDrivenTest:26 - **** Starting TC_003_LoginDDT *****
+2024-08-07 16:35:15 INFO  TC003_LoginDataDrivenTest:26 - **** Starting TC_003_LoginDDT *****
+2024-08-07 16:35:32 INFO  TC003_LoginDataDrivenTest:76 - **** Finished TC_003_LoginDDT *****
+2024-08-07 16:35:32 INFO  TC003_LoginDataDrivenTest:26 - **** Starting TC_003_LoginDDT *****
+2024-08-07 16:35:34 INFO  TC003_LoginDataDrivenTest:76 - **** Finished TC_003_LoginDDT *****
