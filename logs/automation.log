@@ -467,3 +467,102 @@
   E:\java-eclipse-workspace\OpenCart\master.xml
 
 2024-08-07 19:45:11 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 19:50:46 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\test-output\testng-failed.xml"
+2024-08-07 19:50:46 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\test-output\testng-failed.xml
+
+2024-08-07 19:50:56 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 19:51:59 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 19:51:59 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 19:52:09 INFO  TC001_AccountRegistrationTest:25 - ************************ Staring TC001_AccountRegistrationTest ************************#
+2024-08-07 19:52:12 INFO  TC001_AccountRegistrationTest:45 - Validating expected confirm message
+2024-08-07 19:52:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:52:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:52:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:52:14 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:52:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:52:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:52:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:52:15 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:52:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:52:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:52:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:52:15 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:52:15 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 19:52:16 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 19:52:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:52:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:52:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:52:16 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:52:16 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 19:52:16 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 19:52:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-07 19:52:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-07 19:52:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-08-07 19:52:16 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-07 19:52:16 DEBUG ZipPackage:568 - Save content types part
+2024-08-07 19:52:16 DEBUG ZipPackage:572 - Save package relationships
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'docProps/app.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'docProps/core.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/sharedStrings.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/styles.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/theme/theme1.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/workbook.xml'
+2024-08-07 19:52:16 DEBUG ZipPackage:586 - Save part 'xl/worksheets/sheet1.xml'
+2024-08-07 19:52:17 INFO  TC001_AccountRegistrationTest:69 - ************************ finished TC001_AccountRegistrationTest **********************
+2024-08-07 19:52:26 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 20:38:25 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:38:25 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:38:47 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 20:39:47 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:39:47 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:41:02 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:41:03 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:46:33 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:46:33 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:47:55 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:47:55 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:50:11 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:50:12 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:50:29 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 20:54:29 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:54:30 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:54:41 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-07 20:57:57 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-07 20:57:58 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-07 20:58:07 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
