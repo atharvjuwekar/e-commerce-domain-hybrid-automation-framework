@@ -4,3 +4,9 @@
 2024-08-08 13:13:21 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
 2024-08-08 13:13:32 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
 2024-08-08 13:13:36 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
+2024-08-08 13:32:32 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\OpenCart\master.xml"
+2024-08-08 13:32:51 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-08 13:32:53 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
+2024-08-08 13:35:01 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\OpenCart\master.xml"
+2024-08-08 13:35:10 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-08 13:35:12 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
