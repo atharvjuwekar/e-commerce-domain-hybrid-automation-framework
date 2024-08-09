@@ -1,12 +1,14 @@
-2024-08-08 13:11:48 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
-2024-08-08 13:12:13 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
-2024-08-08 13:12:18 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
-2024-08-08 13:13:21 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
-2024-08-08 13:13:32 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
-2024-08-08 13:13:36 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
-2024-08-08 13:32:32 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\OpenCart\master.xml"
-2024-08-08 13:32:51 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
-2024-08-08 13:32:53 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
-2024-08-08 13:35:01 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\OpenCart\master.xml"
-2024-08-08 13:35:10 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
-2024-08-08 13:35:12 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
+2024-08-09 09:48:14 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-09 09:48:15 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
+2024-08-09 09:48:34 INFO  TC002_LoginTest:15 - ******************Starting TC002_LoginTest********************
+2024-08-09 09:48:38 INFO  TC002_LoginTest:35 - ******************finishing TC002_LoginTest********************
+2024-08-09 09:48:46 INFO  TC004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2024-08-09 09:48:48 INFO  TC004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2024-08-09 09:48:56 INFO  TC005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2024-08-09 09:48:59 INFO  TC005_AddToCartPageTest:39 -  Finished TC_004_SearchProductTest 
+2024-08-09 09:57:12 DEBUG TestNG:82 - suiteXmlPath: "E:\java-eclipse-workspace\opencart\master.xml"
+2024-08-09 09:57:13 INFO  Utils:112 - [TestNG] Running:
+  E:\java-eclipse-workspace\OpenCart\master.xml
+
